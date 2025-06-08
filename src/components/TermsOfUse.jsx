@@ -10,9 +10,9 @@ const TermsOfUse = () => {
         <p>
           Unless otherwise specified, the capitalized terms shall have the meanings set out below:
           
-          <p><strong>Account</strong> means and includes the account created on the Site, by the User, in accordance with the terms of the Agreement, registered with and approved by TruEstate.</p>
+          <p><strong>Account</strong> means and includes the account created on the Site, by the User, in accordance with the terms of the Agreement, registered with and approved by Canvas Homes.</p>
           
-          <p><strong>Agreement</strong> means and includes the Terms and Conditions, Privacy Policy, and any other such terms and conditions that may be mutually agreed upon between TruEstate and the User in relation to the Services.</p>
+          <p><strong>Agreement</strong> means and includes the Terms and Conditions, Privacy Policy, and any other such terms and conditions that may be mutually agreed upon between Canvas Homes and the User in relation to the Services.</p>
           
           <p><strong>Applicable Law</strong> means and includes any statute, law, regulation, sub-ordinate legislation, ordinance, rule, judgment, rule of law, order (interim or final), writ, decree, clearance, authorizations, approval, directive, circular guideline, policy, requirement, code of practice, or guidance note</p>
           
@@ -28,29 +28,29 @@ const TermsOfUse = () => {
 
         <h2 className="text-2xl font-semibold">ACCEPTANCE OF TERMS</h2>
         <p>
-          TruEstate agrees to provide the Services in accordance with this Agreement. The User agrees to be bound by the Terms and Conditions and Privacy Policy each time they access the Site.
+          Canvas Homes agrees to provide the Services in accordance with this Agreement. The User agrees to be bound by the Terms and Conditions and Privacy Policy each time they access the Site.
         </p>
 
         <h2 className="text-2xl font-semibold">ACCESS TO THE SITE</h2>
         <p>
           First-time Users can access the Site for browsing without creating an Account.  
-          The User must provide necessary details for account creation. TruEstate reserves the right to verify and approve accounts before granting access.
+          The User must provide necessary details for account creation. Canvas Homes reserves the right to verify and approve accounts before granting access.
         </p>
 
         <h2 className="text-2xl font-semibold">SUBSCRIPTION PLANS</h2>
         <p>
-          TruEstate offers subscription plans based on user needs. Subscription fees may be revised at any time.
+          Canvas Homes offers subscription plans based on user needs. Subscription fees may be revised at any time.
         </p>
 
         <h2 className="text-2xl font-semibold">USER INFORMATION</h2>
         <p>
-          TruEstate is not responsible for the accuracy or integrity of user-provided information.  
-          User information may be stored or deleted at TruEstate’s discretion.
+          Canvas Homes is not responsible for the accuracy or integrity of user-provided information.  
+          User information may be stored or deleted at Canvas Homes’s discretion.
         </p>
 
-        <h2 className="text-2xl font-semibold">RIGHTS OF TruEstate</h2>
+        <h2 className="text-2xl font-semibold">RIGHTS OF Canvas Homes</h2>
         <p>
-          TruEstate reserves the right to reject or disable accounts that violate these terms.  
+          Canvas Homes reserves the right to reject or disable accounts that violate these terms.  
           It may also modify, suspend, or terminate services without prior notice.
         </p>
 
@@ -61,7 +61,7 @@ const TermsOfUse = () => {
 
         <h2 className="text-2xl font-semibold">LIMITATION OF LIABILITY</h2>
         <p>
-          TruEstate's liability under these Terms is limited to the fees paid by the User for availing the Services.
+          Canvas Homes's liability under these Terms is limited to the fees paid by the User for availing the Services.
         </p>
 
         <h2 className="text-2xl font-semibold">REAL ESTATE REGULATORY AUTHORITY</h2>
@@ -71,7 +71,7 @@ const TermsOfUse = () => {
 
         <h2 className="text-2xl font-semibold">UNAUTHORIZED ACCESS</h2>
         <p>
-          Users are responsible for maintaining the security of their account. Any unauthorized access must be reported immediately to TruEstate.
+          Users are responsible for maintaining the security of their account. Any unauthorized access must be reported immediately to Canvas Homes.
         </p>
 
         <h2 className="text-2xl font-semibold">USER GRIEVANCE</h2>
@@ -79,7 +79,7 @@ const TermsOfUse = () => {
           Any grievances related to discrepancies or misuse of information can be addressed to:
         </p>
         <p className="font-semibold">Grievance Officer: Rahul Khandelwal</p>
-        <p className="font-semibold">Email: contact@TruEstate.in</p>
+        <p className="font-semibold">Email: contact@canvas-homes.com</p>
 
         <h2 className="text-2xl font-semibold">GOVERNING LAW AND JURISDICTION</h2>
         <p>
