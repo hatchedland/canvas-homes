@@ -7,20 +7,20 @@ const PrivacyPolicy = () => {
 
       <div className="space-y-6 text-lg leading-relaxed whitespace-pre-line">
         <p>
-          We at TruEstate (Owned by Iqol Technologies Private Limited) are committed to serving you better and value you as the customer/user of our website. We respect your right to privacy.
+          We at Canvas Homes (Owned by Iqol Technologies Private Limited) are committed to serving you better and value you as the customer/user of our website. We respect your right to privacy.
         </p>
 
         <p>
-          This privacy policy directs how TruEstate collects, uses, maintains, and discloses information collected from you (user of  
-          <a href="https://www.truestate.in/" target="_blank" rel="noopener noreferrer" className="text-blue-600 underline">
-            https://www.truestate.in/
+          This privacy policy directs how Canvas Homes collects, uses, maintains, and discloses information collected from you (user of  
+          <a href="https://www.canvas-homes.com/" target="_blank" rel="noopener noreferrer" className="text-blue-600 underline">
+            https://www.canvas-homes.com/
           </a>) 
           in the course of using the website or our social media channels (Linkedin, Facebook, etc).
         </p>
 
         <h2 className="text-2xl font-semibold">Your Personal Information</h2>
         <p>
-          While using the website or social media channels of TruEstate, some personal identification information may be collected in several ways.  
+          While using the website or social media channels of Canvas Homes, some personal identification information may be collected in several ways.  
           We collect your personal information when you visit our website or social media channels, register on the website, subscribe to our newsletter, respond to a survey, fill out a form, and perform a transaction/action in connection with other activities, services, features, or resources we make available.
         </p>
         <p>
@@ -32,7 +32,7 @@ const PrivacyPolicy = () => {
 
         <h2 className="text-2xl font-semibold">Non-Personal Identification Information</h2>
         <p>
-          TruEstate may collect non-personal identification information about users whenever they interact with our website. This includes browser name, type of device, operating system, internet service provider, and other technical details.
+          Canvas Homes may collect non-personal identification information about users whenever they interact with our website. This includes browser name, type of device, operating system, internet service provider, and other technical details.
         </p>
 
         <h2 className="text-2xl font-semibold">About Web Browser Cookies</h2>
@@ -42,7 +42,7 @@ const PrivacyPolicy = () => {
         </p>
 
         <h2 className="text-2xl font-semibold">How We Use Your Collected Information</h2>
-        <p>TruEstate may collect and use personal information for various purposes, including but not limited to:</p>
+        <p>Canvas Homes may collect and use personal information for various purposes, including but not limited to:</p>
         <ul className="list-disc pl-6 space-y-2">
           <li><strong>Improving customer services:</strong> Helps us respond to pre-sale and post-sale service requests efficiently.</li>
           <li><strong>Personalizing user experience:</strong> Analyzing user data to enhance services.</li>
@@ -64,10 +64,10 @@ const PrivacyPolicy = () => {
         <p>
           If you wish to review or delete your personal information, contact us at:
         </p>
-        <p className="font-semibold">TruEstate, No. 111 8th Cross, Paramount Gardens, Kanakapura Main Road, Bengaluru - 560062</p>
-        <p className="font-semibold">Email: <a href="mailto:contact@truestate.in" className="text-blue-600 underline">contact@truestate.in</a></p>
+        <p className="font-semibold">Canvas Homes, No. 111 8th Cross, Paramount Gardens, Kanakapura Main Road, Bengaluru - 560062</p>
+        <p className="font-semibold">Email: <a href="mailto:contact@Canvas Homes.in" className="text-blue-600 underline">contact@Canvas Homes.in</a></p>
 
-        <h2 className="text-2xl font-semibold">How TruEstate Protects Your Information</h2>
+        <h2 className="text-2xl font-semibold">How Canvas Homes Protects Your Information</h2>
         <p>
           We employ strict security measures to protect against unauthorized access, alteration, disclosure, or destruction of user information.
           All private transactions occur via SSL-secured communication channels with encryption.
@@ -89,13 +89,13 @@ const PrivacyPolicy = () => {
 
         <h2 className="text-2xl font-semibold">Third-Party Websites</h2>
         <p>
-          Our website may link to external websites. TruEstate does not control or assume responsibility for third-party privacy policies or content.
+          Our website may link to external websites. Canvas Homes does not control or assume responsibility for third-party privacy policies or content.
           Any interactions with third-party websites are subject to their respective terms.
         </p>
 
         <h2 className="text-2xl font-semibold">Changes in this Privacy Policy</h2>
         <p>
-          TruEstate reserves the right to update this privacy policy at any time. Updates will be reflected on this page with a revised date.
+          Canvas Homes reserves the right to update this privacy policy at any time. Updates will be reflected on this page with a revised date.
           Users are encouraged to check this page frequently for changes.
         </p>
 
@@ -108,7 +108,7 @@ const PrivacyPolicy = () => {
         <p>
           If you have any questions, comments, or grievances regarding our privacy policy, you can contact us at:
         </p>
-        <p className="font-semibold">Email: <a href="mailto:contact@truestate.in" className="text-blue-600 underline">contact@truestate.in</a></p>
+        <p className="font-semibold">Email: <a href="mailto:contact@Canvas Homes.in" className="text-blue-600 underline">contact@Canvas Homes.in</a></p>
       </div>
     </div>
   );
