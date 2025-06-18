@@ -65,7 +65,11 @@ const PrivacyPolicy = () => {
           If you wish to review or delete your personal information, contact us at:
         </p>
         <p className="font-semibold">Canvas Homes, No. 111 8th Cross, Paramount Gardens, Kanakapura Main Road, Bengaluru - 560062</p>
+<<<<<<< HEAD
         <p className="font-semibold">Email: <a href="mailto:contact@canvas-homes.com" className="text-blue-600 underline">contact@Canvas Homes.in</a></p>
+=======
+        <p className="font-semibold">Email: <a href="mailto:contact@Canvas Homes.in" className="text-blue-600 underline">contact@Canvas Homes.in</a></p>
+>>>>>>> 0678e73588de5767f24d16e0bdaee630735ebc29
 
         <h2 className="text-2xl font-semibold">How Canvas Homes Protects Your Information</h2>
         <p>
@@ -108,7 +112,11 @@ const PrivacyPolicy = () => {
         <p>
           If you have any questions, comments, or grievances regarding our privacy policy, you can contact us at:
         </p>
+<<<<<<< HEAD
         <p className="font-semibold">Email: <a href="mailto:contact@canvas-homes.com" className="text-blue-600 underline">contact@Canvas Homes.in</a></p>
+=======
+        <p className="font-semibold">Email: <a href="mailto:contact@Canvas Homes.in" className="text-blue-600 underline">contact@Canvas Homes.in</a></p>
+>>>>>>> 0678e73588de5767f24d16e0bdaee630735ebc29
       </div>
     </div>
   );
