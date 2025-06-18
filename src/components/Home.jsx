@@ -26,6 +26,11 @@ export const Home = ({ contactmodal, setContactModal }) => {
         className="relative flex flex-col gap-6 justify-center items-center h-[30rem] min-h-[60vh] md:min-h-[90vh] w-full"
         style={opacBackground}
       >
+        {/* Powered by IQOL Technologies */}
+        <div className="absolute top-20 right-6 text-white text-xs md:text-sm font-medium z-40">
+          Powered by IQOL Technologies
+        </div>
+
         {/* Content Section */}
         <div className="px-10 lg:px-20 flex flex-col justify-center items-center w-full text-white lg:items-start relative">
           <div className="w-full max-w-10xl justify-center items-center lg:items-start text-center lg:text-left">
