@@ -10,7 +10,7 @@ const PrivacyPolicy = () => {
       </p>
 
       <p className="text-justify text-base text-gray-500 mb-3 font-lato">
-        This privacy policy directs how Canvas Homes collects, uses, maintains and discloses information collected from you (user of <a href="https://www.CanvasHomes.in/" className="text-blue-600">https://www.CanvasHomes.in/</a>) in the course of using the website (<a href="https://www.CanvasHomes.in/" className="text-blue-600">https://www.CanvasHomes.in/</a>) or our social media channels (Linkedin, Facebook, etc).
+        This privacy policy directs how Canvas Homes collects, uses, maintains and discloses information collected from you (user of <a href="https://www.canvas-homes.com/" className="text-blue-600">https://www.canvas-homes.com/</a>) in the course of using the website (<a href="https://www.canvas-homes.com/" className="text-blue-600">https://www.canvas-homes.com/</a>) or our social media channels (Linkedin, Facebook, etc).
       </p>
 
       <h2 className="text-2xl font-bold mb-4 font-montserrat">Your Personal Information</h2>
@@ -87,7 +87,7 @@ const PrivacyPolicy = () => {
 
       <h2 className="text-2xl font-semibold mt-6 mb-3">Contact Us</h2>
       <p className="text-justify text-base text-gray-500 mb-3 font-lato">
-        If you have any questions, comments or grievances in relation to our privacy policy as outlined above, you can contact us at: <a href="mailto:contact@CanvasHomes.in" className="text-blue-600">contact@CanvasHomes.in</a>
+        If you have any questions, comments or grievances in relation to our privacy policy as outlined above, you can contact us at: <a href="mailto:contact@canvas-homes.com" className="text-blue-600">contact@canvas-homes.com</a>
       </p>
     </div>
   );

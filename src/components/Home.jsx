@@ -28,7 +28,7 @@ export const Home = ({ contactmodal, setContactModal }) => {
       >
         {/* Powered by IQOL Technologies */}
         <div className="absolute top-20 right-6 text-white text-xs md:text-sm font-medium z-40">
-          Powered by IQOL Technologies pvt. ltd.
+          Powered by IQOL Technologies Pvt. Ltd.
         </div>
 
         {/* Content Section */}
