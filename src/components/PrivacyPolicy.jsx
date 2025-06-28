@@ -6,7 +6,7 @@ const PrivacyPolicy = () => {
     <div className="w-full mx-auto px-16 py-6 pt-16">
       <h1 className="text-2xl font-bold mb-4 font-montserrat">Privacy Policy</h1>
       <p className="text-justify text-base text-gray-500 mb-3 font-lato">
-        We at Canvas Homes (Owned by Iqol Technologies Private Limited) are committed to serving you better and value you as the customer/user of our website. We respect your right to privacy.
+        We at Canvas Homes (Owned by IQOL Technologies Private Limited) are committed to serving you better and value you as the customer/user of our website. We respect your right to privacy.
       </p>
 
       <p className="text-justify text-base text-gray-500 mb-3 font-lato">

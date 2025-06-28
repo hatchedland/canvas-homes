@@ -188,25 +188,25 @@ const TermsOfUse = () => {
       </p>
       <p class="text-justify text-base text-gray-500 mb-3 font-lato">
         Site means and includes the website owned, operated and managed by IQOL
-        Technologies Private Limited at the URL{" "}
+        Technologies Private Limited at the URL
         <a
           href="http://www.canvas-homes.com"
           class="text-blue-500 cursor-pointer underline font-lato"
           target="_blank"
           rel="noopener noreferrer"
         >
-          www.canvas-homes.com
+         
         </a>{" "}
-        (
+        
         <a
           href="http://www.canvas-homes.com"
           class="text-blue-500 cursor-pointer underline font-lato"
           target="_blank"
           rel="noopener noreferrer"
         >
-          www.canvas-homes.com
+          
         </a>
-        ),{" "}
+        {" "}
         <a
           href="http://www.canvas-homes.com"
           class="text-blue-500 cursor-pointer underline font-lato"
@@ -462,12 +462,12 @@ const TermsOfUse = () => {
         pursuant to the EU GDPR. The relevant Users shall exercise any of these
         rights by raising a personal and direct request with Canvas Homes on{" "}
         <a
-          href="mailto:hello@canvas-homes.com"
+          href="mailto:contact@canvas-homes.com"
           class="text-blue-500 cursor-pointer underline font-lato"
           target="_blank"
           rel="noopener noreferrer"
         >
-          hello@canvas-homes.com
+          contact@canvas-homes.com
         </a>
         .
       </p>
